@@ -2,4 +2,4 @@
 
 This is testing the git for redhat
 
-Welcome
+Welcome!
